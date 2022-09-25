@@ -9,4 +9,3 @@ Desktop:
 Mobile:
 ![mobile-design](https://user-images.githubusercontent.com/43632643/192153391-810ac441-77ef-4e6d-90ca-32438ebe403d.jpg)
 
-Demo : https://github.com/danuxp/product-preview-card
